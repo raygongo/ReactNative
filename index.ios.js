@@ -30,7 +30,7 @@ var MyApp = React.createClass({
 
   getInitialState: function() {
     return {
-      selectedTab: 'home',
+      selectedTab: 'chat',
       notifCount: 0,
       presses: 0,
     };
